@@ -7,6 +7,7 @@ Basic NumPy Operations: Creating arrays, indexing, slicing, and reshaping.
 Linear Algebra: Matrix operations, dot product, eigenvalues, and solving equations.
 Statistical Operations: Mean, median, standard deviation, and correlation.
 Broadcasting & Vectorization: Optimized operations for large datasets.
+
 📌 Key Learnings
 Efficient numerical computations with NumPy
 Optimizing code using broadcasting
